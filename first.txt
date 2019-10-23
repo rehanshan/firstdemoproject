@@ -3,3 +3,5 @@ Hello World --for git hub remote repository
 Demo world
 
 text added for online changes
+
+locally changes in smartgit
